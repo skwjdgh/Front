@@ -10,8 +10,8 @@
 | 언어 | 소개 페이지 | 원본 레포 |
 |------|-------------|-----------|
 | HTML | [docs/html.md](https://github.com/skwjdgh/Web101_study/blob/main/HTML.md) | [html-docs](https://github.com/skwjdgh/Web101_study) |
-| CSS | [docs/c.md](docs/c.md) | [c-docs](https://github.com/myorg/c-docs) |
-| JavaScript | [docs/java.md](docs/java.md) | [java-docs](https://github.com/myorg/java-docs) |
+| CSS | [docs/c.md] | [c-docs] |
+| JavaScript | [docs/java.md] | [java-docs] |
 
 ---
 
