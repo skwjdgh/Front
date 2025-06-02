@@ -6,7 +6,7 @@
 
 ## 🗂 문서 개요
 
-- 🌐 [HTML 문서 소개](https://github.com/skwjdgh/Web101_study))
+- 🌐 [HTML 문서 소개](https://github.com/skwjdgh/Web101_study)
 - 🎨 [CSS 문서 소개]
 - 🧠 [JavaScript 문서 소개]
 
